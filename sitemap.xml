@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Beranda -->
+  <url>
+    <loc>https://gemilangkatun.id/</loc>
+    <lastmod>2024-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://gemilangkatun.id/images/hero-outbound.png</image:loc>
+      <image:title>Gemilang Katun - Vendor Outbound Batu Malang Terpercaya</image:title>
+    </image:image>
+  </url>
+
+  <!-- Blog -->
+  <url>
+    <loc>https://gemilangkatun.id/blog.html</loc>
+    <lastmod>2024-12-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Artikel 1: Cara Memilih Vendor Outbound -->
+  <url>
+    <loc>https://gemilangkatun.id/artikel-1.html</loc>
+    <lastmod>2024-12-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilangkatun.id/images/vendor-outbound.svg</image:loc>
+      <image:title>Cara Memilih Vendor Outbound Batu Malang Terpercaya</image:title>
+    </image:image>
+  </url>
+
+  <!-- Artikel 2: Paket Outbound Paralayang -->
+  <url>
+    <loc>https://gemilangkatun.id/artikel-2.html</loc>
+    <lastmod>2024-12-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilangkatun.id/images/paragliding-batu.svg</image:loc>
+      <image:title>Paket Outbound Paralayang Batu Malang Terlengkap</image:title>
+    </image:image>
+  </url>
+
+  <!-- Artikel 3: Manfaat Outbound Team Building -->
+  <url>
+    <loc>https://gemilangkatun.id/artikel-3.html</loc>
+    <lastmod>2024-12-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilangkatun.id/images/outbound-teamwork.svg</image:loc>
+      <image:title>Manfaat Outbound Team Building untuk Perusahaan</image:title>
+    </image:image>
+  </url>
+
+  <!-- Artikel 4: Destinasi Wisata Batu Malang -->
+  <url>
+    <loc>https://gemilangkatun.id/artikel-4.html</loc>
+    <lastmod>2024-12-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilangkatun.id/images/wisata-batu-malang.svg</image:loc>
+      <image:title>Destinasi Wisata Batu Malang Terpopuler untuk Outbound</image:title>
+    </image:image>
+  </url>
+
+  <!-- Artikel 5: Tips Persiapan Outbound Pemula -->
+  <url>
+    <loc>https://gemilangkatun.id/artikel-5.html</loc>
+    <lastmod>2024-12-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://gemilangkatun.id/images/tips-outbound.svg</image:loc>
+      <image:title>Tips Persiapan Outbound Batu Malang untuk Pemula</image:title>
+    </image:image>
+  </url>
+
+</urlset>

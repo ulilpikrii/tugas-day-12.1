@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="vbg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFF8E1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFECB3;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#vbg)"/>
+  <!-- Clipboard / Checklist -->
+  <rect x="250" y="60" width="300" height="380" rx="15" fill="#795548"/>
+  <rect x="340" y="40" width="120" height="35" rx="10" fill="#5D4037"/>
+  <rect x="270" y="90" width="260" height="340" rx="10" fill="white"/>
+  <!-- Check items -->
+  <rect x="290" y="110" width="24" height="24" rx="4" fill="#4CAF50"/>
+  <text x="302" y="128" font-family="Arial" font-size="16" fill="white" text-anchor="middle">✓</text>
+  <text x="330" y="128" font-family="Arial" font-size="14" fill="#333">Tim Profesional</text>
+  <rect x="290" y="150" width="24" height="24" rx="4" fill="#4CAF50"/>
+  <text x="302" y="168" font-family="Arial" font-size="16" fill="white" text-anchor="middle">✓</text>
+  <text x="330" y="168" font-family="Arial" font-size="14" fill="#333">Peralatan Lengkap</text>
+  <rect x="290" y="190" width="24" height="24" rx="4" fill="#4CAF50"/>
+  <text x="302" y="208" font-family="Arial" font-size="16" fill="white" text-anchor="middle">✓</text>
+  <text x="330" y="208" font-family="Arial" font-size="14" fill="#333">Lokasi Strategis</text>
+  <rect x="290" y="230" width="24" height="24" rx="4" fill="#4CAF50"/>
+  <text x="302" y="248" font-family="Arial" font-size="16" fill="white" text-anchor="middle">✓</text>
+  <text x="330" y="248" font-family="Arial" font-size="14" fill="#333">Harga Terjangkau</text>
+  <rect x="290" y="270" width="24" height="24" rx="4" fill="#4CAF50"/>
+  <text x="302" y="288" font-family="Arial" font-size="16" fill="white" text-anchor="middle">✓</text>
+  <text x="330" y="288" font-family="Arial" font-size="14" fill="#333">Asuransi Peserta</text>
+  <rect x="290" y="310" width="24" height="24" rx="4" fill="#FFC107"/>
+  <text x="330" y="328" font-family="Arial" font-size="14" fill="#333">Paket Custom</text>
+  <rect x="290" y="350" width="24" height="24" rx="4" fill="#FFC107"/>
+  <text x="330" y="368" font-family="Arial" font-size="14" fill="#333">Dokumentasi</text>
+  <!-- Stars -->
+  <circle cx="120" cy="150" r="30" fill="#FFC107" opacity="0.3"/>
+  <circle cx="680" cy="200" r="40" fill="#4CAF50" opacity="0.2"/>
+  <circle cx="650" cy="380" r="25" fill="#FF9800" opacity="0.3"/>
+  <circle cx="150" cy="350" r="35" fill="#2196F3" opacity="0.2"/>
+  <!-- Medal/Trophy -->
+  <circle cx="680" cy="100" r="35" fill="#FFC107" stroke="#F57F17" stroke-width="3"/>
+  <text x="680" y="108" font-family="Arial" font-weight="bold" font-size="24" fill="#F57F17" text-anchor="middle">#1</text>
+  <rect x="670" y="135" width="20" height="8" fill="#FFC107"/>
+  <polygon points="660,143 680,170 700,143" fill="#F44336"/>
+</svg>
